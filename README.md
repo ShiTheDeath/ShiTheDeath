@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ShiTheDeath
 - 👀 I’m interested in gym
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dangquang321323@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: None
+- ⚡ Fun fact: None
 
 <!---
 ShiTheDeath/ShiTheDeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
