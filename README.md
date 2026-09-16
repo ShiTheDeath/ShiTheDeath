@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShiTheDeath
+- 👋 Hi, I’m Trần Đăng Quang
 - 👀 I’m interested in gym
 - 🌱 I’m currently learning code
 - 📫 How to reach me dangquang321323@gmail.com
